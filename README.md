@@ -24,5 +24,5 @@ This project is an AI-driven **gait and behavior-based autism screening platform
 This tool has been deployed in partnership with **Choice Foundation**, which has already screened over **9,000 students** through their **My Child Health** program and provided early intervention support to **300+ children**.  
 
 ## **Acknowledgment**
-Special thanks to **Prof. Ramesh Loganathan** and **Prof. Arjun Rajasekar, Ph.D.** for their mentorship and guidance.  
+Special thanks to **Prof. Ramesh Loganathan** and **Prof. Arjun Rajasekar** for their mentorship and guidance.  
 
