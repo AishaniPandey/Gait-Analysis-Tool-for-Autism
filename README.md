@@ -26,5 +26,3 @@ This tool has been deployed in partnership with **Choice Foundation**, which has
 ## **Acknowledgment**
 Special thanks to **Prof. Ramesh Loganathan** and **Prof. Arjun Rajasekar, Ph.D.** for their mentorship and guidance.  
 
-## **License**
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
